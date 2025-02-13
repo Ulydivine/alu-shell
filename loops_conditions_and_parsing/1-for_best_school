@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+#printin best school 10 times#
+$i="Best school"
+for(i=0; i<=10 ; i++){printf $i}
